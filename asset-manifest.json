@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/anatolypautovdev.github.io/homework-2/static/css/main.2b87bad6.css",
-    "main.js": "/anatolypautovdev.github.io/homework-2/static/js/main.ccc5615b.js",
-    "static/js/787.66cb4309.chunk.js": "/anatolypautovdev.github.io/homework-2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/anatolypautovdev.github.io/homework-2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/anatolypautovdev.github.io/homework-2/index.html",
-    "main.2b87bad6.css.map": "/anatolypautovdev.github.io/homework-2/static/css/main.2b87bad6.css.map",
-    "main.ccc5615b.js.map": "/anatolypautovdev.github.io/homework-2/static/js/main.ccc5615b.js.map",
-    "787.66cb4309.chunk.js.map": "/anatolypautovdev.github.io/homework-2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/homework-2/static/css/main.2b87bad6.css",
+    "main.js": "/homework-2/static/js/main.f7d9fdf9.js",
+    "static/js/787.66cb4309.chunk.js": "/homework-2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/homework-2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/homework-2/index.html",
+    "main.2b87bad6.css.map": "/homework-2/static/css/main.2b87bad6.css.map",
+    "main.f7d9fdf9.js.map": "/homework-2/static/js/main.f7d9fdf9.js.map",
+    "787.66cb4309.chunk.js.map": "/homework-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b87bad6.css",
-    "static/js/main.ccc5615b.js"
+    "static/js/main.f7d9fdf9.js"
   ]
 }
